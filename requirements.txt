@@ -1,3 +1,6 @@
 pillow
 PySide2
+py-cpuinfo
+pint
+psutil
 qrcode
